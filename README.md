@@ -1,4 +1,4 @@
-# Criação e configuraçãod e VMs
+# Script Vagrant
 
 ## Necessário
  * Vagrant
